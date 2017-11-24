@@ -33,15 +33,20 @@
               <div class="pass-content">
                 <h1>南京邮电大学大学生科技节</h1>
                 <div class="passage-subtitle">发布时间： 2017-11-10 文章来源：校科协科宣</div>
-                  <p>看了许多回答，作为一直只看不回答的人，我也想表达一下自己的看法。南邮16级某小院学生。看了前面那么多回答，心里有开心也有气愤。</p><br>
-                  <p>对于合并的事情，我作为16级学生也只有耳闻，没有亲身经历所以无法评判什么。但被合并的某学院学生，为何优越感如此强烈呢，这是让人匪夷所思的。</p><br>
-                  <p>不谈自己高考是失利了还是幸运了来到南邮，至少通过自己一年的亲身体会，我是非常庆幸自己来到南邮的。南邮的学习氛围是很浓厚的。科研还有竞赛等在学生中的宣传，鼓励力度也是很大的。前文回答中有提及很容易逃课什么不点名什么的，恕我直言，我在我们院设置的几乎所有课程中都没有发现这个特点，如果你自己是想逃课的学生，那么无论在哪所学校哪个专业哪门课，只要你有胆子，你都能得出这样的结论吧。</p><br>
-                  <p>有点偏题了。继续聊聊。大一一年，因为自己想要在技术上有所进步，所以加入了科协，科协的学长们授课，其实认真学起来是受益良多的，南邮也都给无论是校科协还是院科协提供了场地，工作室一类的，让学生们进行讨论学习。南邮数模竞赛还有一系列的竞赛成果都是挺优秀的。虽然不是985.211但在竞赛科研方面其实是不输给一些211学校的。但它的劣势也正是，不是985.211，所以资源上肯定不及。</p><br>
-                  <p>南邮的图书馆条件其实还挺不错的，我是经常泡图书馆的，偶尔也会泡教室。图书馆平时其实人就不少（这也是偶尔我占不到座去教室的原因），这也能反应了学校的学习氛围。而如果到期末附近，hhhhhh大家都想抱一抱佛脚，所以8点开馆的话，7点左右就有人开始排队了。座位更是很难求到，连空教室也很少。</p><br>
-                  <p>而南邮的食堂，说句心里话，其实是不便宜的，仙林湾南一南二南三（还有南邮人才懂的南四）整体价格还是偏高的，并且有些菜的口味也并不大众，一些餐厅尤其是一楼的卫生状况也令人堪忧。这是学校确实需要大力监督改进的地方。</p><br>
-                  <p>除此之外，大学一年以来，南邮的社团确实也是学生展示与发展自己才能的地方。参加了科协以及858街舞社。这两个社团都给人留下深刻的印象。可能自己大一只是小部员不了解学校与社团的关系，但社团方面真的是办的非常优秀的（这与我选择的社团还有当时的社团负责人都有关系……）。在这两个社团中自己的能力都得到了很大的提高。听闻同学说他们的大学社团是名存实亡的，但至少以我的视角，南邮并没有如此。在平衡社团和自身学习中，学生的能力又有进一步提高。</p><br>
-                  <p>我是在仙林校区，9月进校并没有觉得学校好看，只是平平淡淡。而下学期，无论是校内二月兰，还是跑操尽头那一片类似花海的地方真的都特别美！图书馆对面的草地现在维护的也特别好，有种国外大学草地的那种感觉了。但南邮可利用的地方还是有很多，如果加以利用，学校应该会更加丰富起来。</p><br>
-                  <p>总之，每个学校都会有不尽如人意的地方，但至少自己的大一过得还是比较充实与满意的。也希望日后自己也能在南邮获得更多的成长！</p>
+                <div class="img-package">
+                  <img src="../assets/img/tech1.jpg" class="passage-pic">
+                  <br>
+                  <div class="img-caption">南京邮电大学第二十二届大学生科技节</div>
+                </div>
+                <p>  南邮“大学生科技节”活动是我校每年一度的大学生科技创新活动盛事，在每年的11月~12月举办。
+    科技节活动涵盖“创新杯”竞赛、“新生杯”计算机基础知识竞赛、“华为杯”网络攻防大赛、“华为杯”“芯”有灵“锡”电子制作大赛等多项科技竞赛活动，覆盖理、工、经、管、文、教、艺，突出南邮学科优势和特色，兼顾趣味性、普适性。
+    每年的科技节活动总能吸引一大批同学参与，更能在全校范围内激起科技创新的热潮。
+    今年的科技节活动以“青春献礼十九大，创新展翼新时代”为主题，将开展一系列丰富多样的科技节活动！欢迎大家踊跃参与！</p><br>
+                <div class="img-package">
+                  <img src="../assets/img/tech4.jpg" class="passage-pic">
+                  <br>
+                  <div class="img-caption">南邮校科协全体成员合影</div>
+                </div>
             </div>
             </div>
           </el-card>
@@ -50,26 +55,16 @@
           <el-card class="box-card">
             <div class="passage">
               <div class="pass-content">
-                <h1>“创新杯”南京邮电大学课外学术科技作品竞赛</h1>
+                <h1>你的创青春已经上线啦！</h1>
                 <div class="passage-subtitle">发布时间： 2017-11-10 文章来源：校科协科宣</div>
+                <p>为提高人才培养质量，创新人才培养机制，切实增强学生的创新精神、创业意识和创新创业能力，培养造就“大众创业、万众创新”的生力军，推动更高质量创业就业，现将有关2017年南京邮电大学“创青春”大学生创业大赛有关事项通知如下：</p><br>
+                <p>通过组委会专家初评，对于进入校级决赛阶段的团队，学校设立金奖、银奖、铜奖若干给予表彰及奖励。其中荣获金奖的队伍，将获得不少于5000元的奖金资助，并有机会入驻大学生创新创业教育基地“青柚创客空间”培育孵化。</p><br>
+                <p>填写《2017年“创青春”大学生创业大赛项目申报简表》，对于暂时没有找到合适项目但是有强烈意愿参加的品学兼优学生，填写《“创青春”大学生创业大赛参赛选拔报名表》。请将以上材料及团队项目书以学院为单位于2017年3月9日前发送至sast@njupt.edu.cn，完成学院参赛项目和队员的报备工作。如有疑问请加交流QQ群108593391。</p><br>
                 <div class="img-package">
-                  <img src="../assets/img/competion-img.jpg" class="passage-pic">
+                  <img src="../assets/img/news10.jpg" class="passage-pic">
                   <br>
-                  <div class="img-caption">Lorem ipsum dolor sit amet</div>
+                  <div class="img-caption">南邮校科协</div>
                 </div>
-                  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p><br>
-                  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p><br>
-                  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p><br>
-                  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p><br>
-                  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p><br>
-                  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p><br>
-                  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
               </div>
             </div>
           </el-card>
@@ -78,45 +73,25 @@
           <el-card class="box-card">
             <div class="passage">
               <div class="pass-content">
-                <h1>“创新杯”南京邮电大学课外学术科技作品竞赛</h1>
+                <h1>“新生杯”计算机基础知识竞赛</h1>
                 <div class="passage-subtitle">发布时间： 2017-11-10 文章来源：校科协科宣</div>
                 <div class="img-package">
-                  <img src="../assets/img/competion-img.jpg" class="passage-pic">
+                  <img src="../assets/img/tech5.jpg" class="passage-pic">
                   <br>
                   <div class="img-caption">Lorem ipsum dolor sit amet</div>
                 </div>
-                  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p><br>
-                  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p><br>
-                  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p><br>
-                  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p><br>
-              </div>
-            </div>
-            </div>
-          </el-card>
-        </el-tab-pane>
-        <el-tab-pane label="鸡蛋撞地球">
-          <el-card class="box-card">
-            <div class="passage">
-              <div class="pass-content">
-                <h1>“创新杯”南京邮电大学课外学术科技作品竞赛</h1>
-                <div class="passage-subtitle">发布时间： 2017-11-10 文章来源：校科协科宣</div>
+                <p>为激发新生对计算机知识学习的热情，丰富同学们的校园文化生活，由校大学生科协举办的新生杯计算机基础知识竞赛于2017年11月22日18:30在计算机学科楼隆重举行.</p><br>
                 <div class="img-package">
-                  <img src="../assets/img/competion-img.jpg" class="passage-pic">
+                  <img src="../assets/img/tech6.jpg" class="passage-pic">
                   <br>
-                  <div class="img-caption">Lorem ipsum dolor sit amet</div>
+                  <div class="img-caption">科协中干为这次比赛调试服务器</div>
                 </div>
-                  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p><br>
-                  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p><br>
-                  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p><br>
-                  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p><br>
+                <p>本次新生杯面向的对象仅是南京邮电大学的大一新生，并且只能以个人名义参赛哦！</p><br>
+                <div class="img-package">
+                  <img src="../assets/img/tech0.jpg" class="passage-pic">
+                  <br>
+                  <div class="img-caption">南邮校科协</div>
+                </div>
               </div>
             </div>
             </div>
@@ -126,21 +101,58 @@
           <el-card class="box-card">
             <div class="passage">
               <div class="pass-content">
-                <h1>“创新杯”南京邮电大学课外学术科技作品竞赛</h1>
+                <h1>水火箭比赛 | 来啊！带着水火箭飞上天，和太阳肩并肩！</h1>
+                <div class="passage-subtitle">发布时间： 2017-11-10 文章来源：校科协科宣</div>
+                <p>啦啦啦啦，亲爱的柚子们，
+还记得去年让你们的小心脏紧张到
+砰砰乱跳的 水火箭大赛 吗？</p><br>
+                <p>还有亲爱的小萌新们，
+想不想来尝试一下
+这紧张又刺激的游戏体验呀？</p><br>
+                <p>今年校大学生科协办公室又来搞事情啦！
+心动不如行动，
+想参加的柚子们快来报名呀，
+水火箭大赛等着你们哟！</p><br>
+                <div class="img-package">
+                  <img src="../assets/img/tech3.jpg" class="passage-pic">
+                  <br>
+                  <div class="img-caption">水火箭比赛</div>
+                </div>
+                <p>比赛规则
+材料需自备，瓶子的大小≤1.25升
+比赛只允许使用一级火箭。
+事先会划定区域，水火箭需飞行在指定区域之内。
+每组有两次发射机会，最终根据飞行距离决定比赛成绩。</p><br>
+                <div class="img-package">
+                  <img src="../assets/img/tech0.jpg" class="passage-pic">
+                  <br>
+                  <div class="img-caption">南邮校科协</div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </el-card>
+        </el-tab-pane>
+        <el-tab-pane label="鸡蛋撞地球">
+          <el-card class="box-card">
+            <div class="passage">
+              <div class="pass-content">
+                <h1>鸡蛋撞地球 | 这个比赛听起来都厉害！</h1>
                 <div class="passage-subtitle">发布时间： 2017-11-10 文章来源：校科协科宣</div>
                 <div class="img-package">
-                  <img src="../assets/img/competion-img.jpg" class="passage-pic">
+                  <img src="../assets/img/tech2.jpg" class="passage-pic">
                   <br>
-                  <div class="img-caption">Lorem ipsum dolor sit amet</div>
+                  <div class="img-caption">鸡蛋撞地球</div>
                 </div>
-                  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p><br>
-                  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p><br>
-                  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p><br>
-                  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p><br>
+                <p>比赛内容及规则说明：</p>
+将一枚生鸡蛋由高楼上抛到水泥地面上，在蛋壳不破裂的前提下，辅助机构质量越轻、下落时间越短、着陆越准确得分越高，得分最高者为胜。比赛用鸡蛋不能经物理或化学方法处理。
+鸡蛋及其装置自行设计和准备。装置的任何部分不许置于着陆地点以及下落路线中。不许使用炸药、高压气体、利器等危险装置呦！
+比赛分为抛掷和答辩两个阶段。认真考虑原理呦～</p><br>
+                <div class="img-package">
+                  <img src="../assets/img/tech0.jpg" class="passage-pic">
+                  <br>
+                  <div class="img-caption">南邮校科协</div>
+                </div>
               </div>
             </div>
             </div>
@@ -164,49 +176,48 @@
 </template>
 
 <script>
-import bus from "../assets/enventBus.js";
+import bus from '../assets/enventBus.js'
 export default {
-  name: "competition",
+  name:'competition',
   data() {
     return {
-      tabPosition: "left",
-      desit: true
-    };
-  },
-  methods: {
-    toTop() {
-      var timer = setInterval(function() {
-        var osTop =
-          document.documentElement.scrollTop || document.body.scrollTop;
-        var speed = Math.floor(-osTop / 5);
-        var isTop = true;
-        document.documentElement.scrollTop = document.body.scrollTop =
-          osTop + speed;
-        if (osTop == 0) {
-          clearInterval(timer);
-        }
-      }, 50);
+      tabPosition:'left',
+      desit:true
     }
   },
-  mounted: function() {
+  methods:{
+    toTop(){
+      var timer = setInterval(function(){
+        var osTop = document.documentElement.scrollTop||document.body.scrollTop;
+        var speed = Math.floor(-osTop / 5);
+        var isTop = true;
+        document.documentElement.scrollTop = document.body.scrollTop = osTop + speed;
+        if(osTop == 0){
+          clearInterval(timer);
+        }
+      },50);
+    }
+  },
+  mounted:function () {
     //新闻挂载成功之后。刷新本路由界面发现轮播重新挂载了。于是乎发送消息让他毁灭
-    bus.$emit("destroy", this.desit);
+    bus.$emit('destroy',this.desit); 
   },
   watch: {
-    $route(to, from) {
+    '$route' (to, from) {
       // 对路由变化作出响应...
       console.log(this.$route.path);
     }
   }
-};
+}
 </script>
 
 <style>
+  
 .el-carousel__item:nth-child(2n) {
   background-color: #99a9bf;
 }
 
-.el-carousel__item:nth-child(2n + 1) {
+.el-carousel__item:nth-child(2n+1) {
   background-color: #d3dce6;
 }
 
@@ -220,10 +231,11 @@ export default {
 
 .img-package {
   padding-bottom: 20px;
-  text-align: center;
+  text-align: center; 
 }
 
-.img-package > .img-caption {
+.img-package> .img-caption
+{
   min-width: 20%;
   max-width: 80%;
   min-height: 22px;
@@ -236,16 +248,21 @@ export default {
   line-height: 1.7;
 }
 
+.img-package> .passage-pic
+{
+  max-width: 100%;
+}
+
 .meta-bottom {
   margin-bottom: 20px;
 }
 
-.meta-bottom > .btn-like {
+.meta-bottom> .btn-like {
   float: right;
   margin-right: 20px;
 }
 
-.btn-like > a {
+.btn-like> a{
   border: solid 1px;
   border-radius: 6px;
   cursor: pointer;
@@ -260,12 +277,12 @@ export default {
   height: 40px;
   border-radius: 20px;
   cursor: pointer;
-  transition: 0.3s;
-  box-shadow: 0 0 3px rgba(0, 0, 0, 0.12);
+  transition: .3s;
+  box-shadow: 0 0 3px rgba(0,0,0,0.12)
 }
 
 .page-component-up:hover {
-  box-shadow: 0 0 3px rgba(0, 0, 0, 1.12);
+  box-shadow: 0 0 3px rgba(0,0,0,1.12)
 }
 
 .passage-subtitle {
@@ -274,7 +291,7 @@ export default {
   display: block;
 }
 
-.passage h1 {
+.passage h1{
   min-width: 75%;
   text-align: left;
   display: block;
@@ -287,9 +304,9 @@ export default {
   margin: 0 auto;
 }
 
-.pass-content p {
+.pass-content p{
   text-indent: 2em;
-  line-height: 1.5em;
+  line-height:1.5em;
 }
 
 #competition-main {

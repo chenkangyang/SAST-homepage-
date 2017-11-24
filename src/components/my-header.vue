@@ -11,7 +11,7 @@
 				<template slot="title">友情链接</template>
 					<el-menu-item index="4-1"><a href="http://homework.nuptsast.com/index/" target="_blank">软件研发中心作业平台</a></el-menu-item>
 					<el-menu-item index="4-2"><a href="http://mirrors.njupt.edu.cn/" target="_blank">南京邮电大学开源镜像站</a></el-menu-item>
-					<el-menu-item index="4-1"><a href="#" target="_blank">南京邮电大学小程序</a></el-menu-item>
+					<el-menu-item index="4-1"><a href="https://github.com/njuptalex/SAST-homepage-" target="_blank">Github项目地址</a></el-menu-item>
 			</el-submenu>
 			<el-menu-item index="5" style="float:right;" @click="loginFormVisible = true">登陆/注册</el-menu-item>
 								
