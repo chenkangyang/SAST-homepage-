@@ -16,12 +16,16 @@
 			<el-menu-item index="5" style="float:right;" @click="loginFormVisible = true">登陆/注册</el-menu-item>
 								
 			<el-menu-item index="6" style="float:right;" @click="welcomeFormVisible = true">报名招新</el-menu-item>
-			<el-popover placement="top-start" title="扫描二维码" width="200" trigger="click">
+			<el-popover placement="top-start" title="扫描二维码" width="130px" trigger="click">
 				<div>
-					<img src="../assets/img/qrcode1.png" style="margin-bottom: 8px; max-width:200px;">
-					<p>南邮官方微信</p>
-					<img src="../assets/img/qrcode2.jpg" style="margin-bottom: 8px; max-width:200px;">
-					<p>南邮微信小程序</p>
+					<span>
+						<img src="../assets/img/qrcode1.png" style="margin-bottom: 8px; max-width:130px;">
+						<p>南邮官方微信</p>
+					</span>
+					<span>
+						<img src="../assets/img/qrcode2.jpg" style="margin-bottom: 8px; max-width:130px;">
+						<p>南邮微信小程序</p>
+					</span>
 				</div>
 				<el-menu-item index="7" style="float:right;" slot="reference">联系我们</el-menu-item>
 			</el-popover>
