@@ -20,7 +20,7 @@
 				<div>
 					<img src="../assets/img/qrcode1.png" style="margin-bottom: 8px; max-width:200px;">
 					<p>南邮官方微信</p>
-					<img src="https://pek3a.qingstor.com/warehouse1/20161205045719651.jpg" style="margin-bottom: 8px; max-width:200px;">
+					<img src="../assets/img/qrcode2.jpg" style="margin-bottom: 8px; max-width:200px;">
 					<p>南邮微信小程序</p>
 				</div>
 				<el-menu-item index="7" style="float:right;" slot="reference">联系我们</el-menu-item>
